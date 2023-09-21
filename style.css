@@ -1,4 +1,4 @@
-*{
+{
     margin: 0 0 0 0;
 }
 
@@ -43,7 +43,7 @@ h1{Missão do Projeto
 nav {
     position: absolute;
     bottom: auto;
-    top: 38%;
+    top: 38%;<link rel="stylesheet" href="style.css">
     right: 10%;
     margin-left: 45%;
     font-size: 30px; font-family: monospace;
@@ -73,22 +73,6 @@ p{
     margin: 0 5px 0 25px;
 }
     
-nav ul{
-    display: block;
-    text-align: end;
-    margin-bottom: auto;
-}
-
-nav li{
-    display: inline;
-   }
-
-nav a{
-    text-decoration: none;
-    color: rgba(255, 0, 43, 0.712);
-    font-size: 100%;
-}
-
 .home{
     margin-top: 10%;
     text-decoration: none;
