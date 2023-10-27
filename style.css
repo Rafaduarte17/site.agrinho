@@ -3,12 +3,12 @@
 }
 
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(122, 97, 42);
- background-color: rgb(15, 21, 22); /
+    font-family: Verdana, Geneva, Tahoma, sans-serif; color: rgb(100, 6, 6);
+ background-color: rgb(207, 6, 6); /
 }
 
 header{
-    background-color: #110101;
+    background-color: #e00d0d;
     padding: 40px;
     display: flex;
     align-items: center;
@@ -54,12 +54,12 @@ nav {
     font-size: 40px;
     text-align: center;
     margin: 8%;
-    border: 2px solid #d64350;
+    border: 2px solid #be0514;
     padding: 30px;
     border-radius: 40px 20px;
     background-color: #c0002a;
     font-family: 'Fredericka the Great', cursive;
-    color: #000000;
+    color: #050202;
   }
 
 h2{
@@ -77,7 +77,7 @@ p{
     margin-top: 10%;
     text-decoration: none;
       background-color: white;
-      color: #f03746;
+      color: #d10112;
       padding: 12px;
       display: inline-block;
       font-family: arial, sans-serif;
